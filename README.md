@@ -6,9 +6,9 @@ These fun projects were built in leisure times, I used Python mainly, used tips 
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Inzamamul%20Haque%20Ashique-red)
 
 
-# Activate the virtual environment
+# Activate the virtual environment [for Windows]
 
-```terminal [for Windows]
+```terminal 
 venv/Script/activate
 ```
 
