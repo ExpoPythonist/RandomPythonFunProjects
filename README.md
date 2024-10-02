@@ -1,4 +1,5 @@
-# GenuineCosts with Django
+# RandomPythonFunProjects
+
 This fun projects was built in leisure times, I used Python mainly, used tips and tricks of Python.
 
 
